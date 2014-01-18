@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"foo":"1.0"}};

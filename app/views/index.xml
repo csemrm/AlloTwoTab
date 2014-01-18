@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label id="label" onClick="doClick">Hello, World</Label>
+		<Require type="widget" src="foo" id="মদসজজ" />
+	</Window>
+</Alloy>
